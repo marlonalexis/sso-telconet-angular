@@ -1,0 +1,7 @@
+var AccountingSsoReq = /** @class */ (function () {
+    function AccountingSsoReq() {
+    }
+    return AccountingSsoReq;
+}());
+export { AccountingSsoReq };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYWNjb3VudGluZy1zc28tcmVxLmpzIiwic291cmNlUm9vdCI6Im5nOi8vc3NvLXRlbGNvbmV0LyIsInNvdXJjZXMiOlsic3JjL2FwcC9fcmVxdWVzdC9hY2NvdW50aW5nLXNzby1yZXEudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFBQTtJQUtBLENBQUM7SUFBRCx1QkFBQztBQUFELENBQUMsQUFMRCxJQUtDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0IGNsYXNzIEFjY291bnRpbmdTc29SZXEge1xuXHRzc29TZXNzaW9uOiBzdHJpbmc7XG5cdHJlcXVlc3RTZXJ2aWNlOiBzdHJpbmc7XG5cdHBhdGg6IHN0cmluZztcblx0aXBDbGllbnRlOiBzdHJpbmc7XG59XG4iXX0=

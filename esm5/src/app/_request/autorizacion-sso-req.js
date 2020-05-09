@@ -1,0 +1,7 @@
+var AutorizacionSsoReq = /** @class */ (function () {
+    function AutorizacionSsoReq() {
+    }
+    return AutorizacionSsoReq;
+}());
+export { AutorizacionSsoReq };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiYXV0b3JpemFjaW9uLXNzby1yZXEuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9zc28tdGVsY29uZXQvIiwic291cmNlcyI6WyJzcmMvYXBwL19yZXF1ZXN0L2F1dG9yaXphY2lvbi1zc28tcmVxLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0lBQUE7SUFLQSxDQUFDO0lBQUQseUJBQUM7QUFBRCxDQUFDLEFBTEQsSUFLQyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBjbGFzcyBBdXRvcml6YWNpb25Tc29SZXEge1xuXHR1c2VyTG9naW46IHN0cmluZztcblx0c2VydmljZVRhcmdldDogc3RyaW5nO1xuXHRpcENsaWVudGU6IHN0cmluZztcblx0c2VydmljZVRpY2tldDogc3RyaW5nO1xufVxuIl19
