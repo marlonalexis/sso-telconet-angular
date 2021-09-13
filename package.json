@@ -19,7 +19,7 @@
     "stream": "0.0.2",
     "timers": "^0.1.1",
     "tslib": "^1.10.0",
-    "zone.js": "~0.10.2"
+    "zone.js": "~0.11.4"
   },
   "main": "bundles/sso-telconet.umd.js",
   "module": "fesm5/sso-telconet.js",
